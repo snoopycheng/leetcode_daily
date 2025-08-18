@@ -13,3 +13,24 @@ time complexity: O(n)
     n = size of num
 
 space complexity: O(1)
+
+## 837. New 21 Game
+
+// to be completed
+
+time complexity:
+
+space complexity:
+
+
+## 679. 24 Game
+
+real division: 7 / 3 = 2.33...
+
+integer division: 7 // 3 = 2
+
+// to be completed
+
+time complexity:
+
+space complexity:
