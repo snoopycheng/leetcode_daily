@@ -34,3 +34,12 @@ integer division: 7 // 3 = 2
 time complexity:
 
 space complexity:
+
+## 2348. Number of Zero-Filled Subarrays
+
+time complexity: O(n)
+
+    n = size of nums
+
+space complexity: O(1)
+
