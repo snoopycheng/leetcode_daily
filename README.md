@@ -43,3 +43,27 @@ time complexity: O(n)
 
 space complexity: O(1)
 
+## 1277. Count Square Submatrices with All Ones
+
+### dynamic programming
+
+a technique for solving problems with overlapping subproblems
+
+solve subproblems once -> record the results in a table
+
+// to be completed
+
+
+time complexity: O(mxn)
+
+    m = row of matrix
+
+    n = column of matrix
+
+space complexity: O(1)
+
+
+# reference
+
+the design and analysis of algorithms
+
